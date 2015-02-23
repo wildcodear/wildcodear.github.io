@@ -6,7 +6,7 @@ body {
     width: 100%;
     height: 100%;
     font-family: 'Lato',sans-serif;
-	font-weight: 300;
+    font-weight: 300;
     color: #666;
     background-color: #fff;
 }
@@ -413,13 +413,13 @@ hr {
 .team-social .social-twitter a{background: #62c6f8;}
 .team-social .social-dribble a{background: #d74980;}
 .team-social .social-deviantart a{background: #8da356;}
-.team-social .social-google a{background: #000;}
+.team-social .social-google a{background: #da573b;}
 .team-social .social-vimeo a{background: #51a6d3;}
 .team-social .social-facebook a:hover{background: #4893ce;}
 .team-social .social-twitter a:hover{background: #82e6ff;}
 .team-social .social-dribble a:hover{background: #f769a0;}
 .team-social .social-deviantart a:hover{background: #adc376;}
-.team-social .social-google a:hover{background: #333;}
+.team-social .social-google a:hover{background: #be5238;}
 .team-social .social-vimeo a:hover{background: #71c6f3;}
 
 
@@ -505,13 +505,13 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 .company-social .social-twitter a{background: #62c6f8;}
 .company-social .social-dribble a{background: #d74980;}
 .company-social .social-deviantart a{background: #8da356;}
-.company-social .social-google a{background: #000;}
+.company-social .social-google a{background: #da573b;}
 .company-social .social-vimeo a{background: #51a6d3;}
 .company-social .social-facebook a:hover{background: #4893ce;}
 .company-social .social-twitter a:hover{background: #82e6ff;}
 .company-social .social-dribble a:hover{background: #f769a0;}
 .company-social .social-deviantart a:hover{background: #adc376;}
-.company-social .social-google a:hover{background: #333;}
+.company-social .social-google a:hover{background: #be5238;}
 .company-social .social-vimeo a:hover{background: #71c6f3;}
 
 
@@ -692,8 +692,10 @@ Parallax
 .btn-skin:active,
 .btn-skin.active {
   color: #fff;
-  background-color: #666;
-  border-color: #666;
+  /*background-color: #666;
+  border-color: #666;*/
+  background-color: #9C9C9C;
+  border-color: #9C9C9C;
 }
 
 
