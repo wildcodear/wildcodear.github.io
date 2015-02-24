@@ -724,6 +724,10 @@ Parallax
   background: #848484;
 }
 
+.center {
+  text-align: center;
+}
+
 /* Media queries */
 
 @media(min-width:767px) {
